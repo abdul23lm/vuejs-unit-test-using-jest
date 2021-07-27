@@ -1,0 +1,53 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Memasak",
+      "is_done": true,
+      "detail": "Masak bareng istri dan anak",
+      "where": "Dapur"
+    },
+    {
+      "id": 2,
+      "todo": "Belanja",
+      "is_done": true,
+      "detail": "Belanja buku",
+      "where": "Gramedia"
+    },
+    {
+      "todo": "Belanja",
+      "is_done": true,
+      "id": 3,
+      "detail": "Belanja buku",
+      "where": "Gramedia"
+    },
+    {
+      "todo": "Study",
+      "where": "Room",
+      "detail": "Math",
+      "is_done": true,
+      "id": 4
+    },
+    {
+      "todo": "Going to friend house",
+      "where": "Bandung",
+      "detail": "Dinner",
+      "is_done": true,
+      "id": 5
+    },
+    {
+      "todo": "belajar",
+      "where": "dirumah",
+      "detail": "vue test utils",
+      "is_done": true,
+      "id": 6
+    },
+    {
+      "todo": "Memasak",
+      "where": "rumah",
+      "detail": "sup",
+      "is_done": true,
+      "id": 7
+    }
+  ]
+}
